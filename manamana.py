@@ -6,6 +6,7 @@ def main():
   '''
   
   print(bee_movie_script)
+  print('So what is the truth')
 
 if __name__ == '__main__':
   main()
